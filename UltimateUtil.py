@@ -6,7 +6,6 @@ import glob
 import time
 import tkinter.messagebox
 import os, os.path
-import progressbar
 import PIL.Image
 from re import match
 from PIL import ImageTk
